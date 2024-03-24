@@ -22,7 +22,7 @@
 .filter_card {
   background-color: white;
   width: 111px;
-  /* height: 81px; */
+  color: black;
   position: relative;
   top: 3px;
   right: 7px;
@@ -130,6 +130,7 @@ input[type="text"] {
   height: 36px;
   border-radius: 9999px 9999px 9999px 9999px;
   border: none;
+  color: black;
 }
 input[type="text"]:focus-visible {
   outline: -webkit-focus-ring-color auto 0px;
