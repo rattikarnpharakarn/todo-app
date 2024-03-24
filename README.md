@@ -1,5 +1,4 @@
-## Start the development
-> Install Package
+## Install Package
 
 ```
 yarn
