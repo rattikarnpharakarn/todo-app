@@ -1,0 +1,18 @@
+.list {
+  padding: 60px;
+}
+.plus-icon {
+  width: 25px;
+  margin-left: 10px;
+  color: rgba(224, 124, 124, 1);
+}
+.arrow-icon {
+  width: 15px;
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .list {
+    padding: 40px;
+  }
+}
